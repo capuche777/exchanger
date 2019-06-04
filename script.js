@@ -23,5 +23,3 @@ const valorModificado = input => {
         input['value'] = (input['dataset']['cambio'] * factor).toFixed(2)
     });
 }
-
-console.log('Puto el que lo lea')
